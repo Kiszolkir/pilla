@@ -1,0 +1,35 @@
+body {
+    
+    background-image: url(https://st2.depositphotos.com/4614791/9824/i/950/depositphotos_98242282-stock-photo-various-makeup-products-on-dark.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+h1 {
+    color: rgb(218, 120, 40);
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  h2 {
+      color: brown;
+      opacity: 0.7;
+
+  }
+
+div {
+    padding: auto;
+    color: brown;
+    
+}
+.galery {
+    border-radius: 50%;
+    border:  solid transparent;
+    padding-inline: 4px;
+    width: 510px;
+    
+}
+
